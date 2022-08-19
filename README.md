@@ -1,3 +1,4 @@
+# README-md.py
 ```py
 # Imports, Don't Touch!
 import Person0z
@@ -17,14 +18,14 @@ print(Projects)
 print(Games)
 ```
 
-
+# Terminal Output
 ```c#
 >> py README-md.py
->> Downloading Person0z [--]
->> Downloading Person0z [---]
->> Downloading Person0z [----]
->> Downloading Person0z [-----]
->> Downloading Person0z [------]
+>> Downloading Person0z [-      ]
+>> Downloading Person0z [--     ]
+>> Downloading Person0z [---    ]
+>> Downloading Person0z [-----  ]
+>> Downloading Person0z [------ ]
 >> Downloading Person0z [-------]
 >> Download Finished of Person0z!
 >>
