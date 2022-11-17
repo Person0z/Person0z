@@ -35,8 +35,3 @@ print(Games)
 >> Some projects im doing right now- HurricaneMC, + Classifed Project!
 >> Games I love to play! Escape From Tarkov, Minecraft, Star Citizen, Warthunder
 ```
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
-</p>
-
