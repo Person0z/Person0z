@@ -37,5 +37,5 @@ print(Games)
 ```
 <p align="center"> 
   Visitor count<br>
-  <img src="[https://profile-counter.glitch.me/daweedkob/count.svg](https://profile-counter.glitch.me/Person0z/count.svg)" />
+  <img src="https://profile-counter.glitch.me/Person0z/count.svg" />
 </p>
