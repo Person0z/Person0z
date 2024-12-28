@@ -1,4 +1,16 @@
-<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Person0z&fontAlignY=35&fontSize=50&desc=I%27m%20the%20CEO%20of%20being%20an%20idiot,%20so%20learn%20to%20deal%20with%20me&descSize=13&descAlignY=50&animation=fadeOut" align="center" style="width: 100%"></a>
+<!-- Banner or icon image -->
+<p align="center">
+  <img src="https://github.com/Person0z/Portfolio/blob/cac94d8d168fe1ed202cc91b0e19f0dfbd4d3455/images/circle-p.png" width="10%" alt="Banner">
+</p>
+
+<h1 align="center">Hi, I'm Person0z!</h1>
+
+<p align="center">
+  <em>
+    I'm a passionate developer who loves coding in Python, Bash, and HTML. I'm currently learning Kotlin and exploring Android app development.<br/>
+    Feel free to ask me any questions!
+  </em>
+</p>
 
 # README-md.py
 ```py
@@ -9,7 +21,7 @@ import Person0z
 Discord = 'Add me on discord Person0z#0812'
 Website = 'View my portfolio in the make https://person0z.me'
 Learning = 'Things im learning: Python, HTML + CSS, Andriod App Development'
-Projects = 'Some projects im doing right now- HurricaneMC, + Classifed Project!'
+Projects = 'Some projects im doing right now- HurricaneMC, Malwack, + more!'
 Games = 'Games I love to play! Escape From Tarkov, Minecraft, Star Citizen, Warthunder'
 
 # Code
@@ -31,13 +43,9 @@ print(Games)
 >> Downloading Person0z [-------]
 >> Download Finished of Person0z!
 >>
->> Add me on discord Person0z#0812
+>> Add me on discord @Person0z
 >> View my portfolio in the make https:\\person0z.me\
 >> Things im learning: Python, HTML + CSS, Andriod App Development
->> Some projects im doing right now- HurricaneMC, + Classifed Project!
+>> Some projects im doing right now- HurricaneMC, Malwack, + more!
 >> Games I love to play! Escape From Tarkov, Minecraft, Star Citizen, Warthunder
 ```
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Person0z/count.svg" />
-</p>
