@@ -7,8 +7,7 @@
 
 <p align="center">
   <em>
-    I'm a passionate developer who loves coding in Python, Bash, and HTML. I'm currently learning Kotlin and exploring Android app development.<br/>
-    Feel free to ask me any questions!
+    I'm a passionate developer who loves coding in Python, Bash, and HTML. I'm currently learning Kotlin and exploring Android app development.
   </em>
 </p>
 
@@ -49,3 +48,4 @@ print(Games)
 >> Some projects im doing right now- HurricaneMC, Malwack, + more!
 >> Games I love to play! Escape From Tarkov, Minecraft, Star Citizen, Warthunder
 ```
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Person0z&layout=compact&theme=transparent)
